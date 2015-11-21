@@ -1,0 +1,10 @@
+.gallery-desc {
+    display: inline-block;
+    margin-top: 5%;
+    position: absolute;
+    margin-left: 5em;
+}
+
+.gallery-img {
+    display: inline-block;
+}

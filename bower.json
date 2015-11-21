@@ -1,0 +1,21 @@
+{
+  "name": "wizardgallary",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ronfe/wizardgallary",
+  "authors": [
+    "ronfe <chihungfei@126.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "jquery": "~2.1.4"
+  }
+}
